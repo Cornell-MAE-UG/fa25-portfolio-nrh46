@@ -1,8 +1,8 @@
 ---
 layout: project
 title: Turbine Blade Design
-description: Advanced CAD Project
-technologies: [Autodesk Fusion]
+description: Wind Turbine Blade Design and Testing
+technologies: [Python, Data Processing]
 image: /assets/images/Blade-CAD.jpg
 ---
 
