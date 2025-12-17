@@ -1,14 +1,18 @@
 ---
 layout: project
-title: Radio CAD Rendering
+title: Turbine Blade Design
 description: Advanced CAD Project
 technologies: [Autodesk Fusion]
-image: /assets/images/radio-machine-cad.jpg
+image: /assets/images/Blade-CAD.jpg
 ---
 
-For a class, we were asked to CAD a complex object. This design was...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. 
+Project Overview:
 
-Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+For MAE 4272, Fluids and Heat Transfer Laboratory, my team and I designed and tested a wind-turbine blade for a three blade horizontal axis turbine. The turbine was intended to operate in a controlled wind tunnel environment characterized by a Weibull wind speed distribution. From those parameters, our objective was to design a blade that could safely and efficiently extract power across the full range of probable wind speeds, rather than optimizing performance at a single operating point.
+
+Design Process:
+
+
 
 ![Shaded rendering of earlier version]({{ "/assets/images/radio-machine.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}
 
