@@ -2,7 +2,7 @@
 layout: project
 title: Boeing 737 Max Tragedy Ethical Analysis
 description: Analysis of the ethics in decision making during the 737 Max disasters.
-image: /assets/images/737-max-crash.jepg
+image: /assets/images/737-max-crash.jpeg
 ---
 
 The Boeing 737 MAX disasters involve two fatal crashes, Lion Air Flight 610 in October 2018 and Ethiopian Airlines Flight 302 in March 2019, together claiming 346 lives. The resulting global grounding of the 737 MAX prompted extensive investigations into Boeing’s engineering practices, organizational decision making, and the regulatory framework governing aircraft certification. As a case study, the 737 MAX provides a clear context for examining how ethical responsibilities manifest across different levels of the engineering profession.
