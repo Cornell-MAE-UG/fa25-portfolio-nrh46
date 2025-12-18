@@ -41,9 +41,6 @@ The resulting data were used to generate power curves for multiple wind speeds, 
 
 ![Graph of Power Produced vs Turbine RPM]({{ site.baseurl }}/assets/images/Power-vs-RPM.jpg){: .inline-image-l}
 
-        </div>
-      </figure>
-    </div>
 
   </section>
 
