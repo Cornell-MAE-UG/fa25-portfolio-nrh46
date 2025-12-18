@@ -37,9 +37,10 @@ After fabrication via 3D printing, the blade set was experimentally evaluated in
 
 The resulting data were used to generate power curves for multiple wind speeds, enabling evaluation of turbine efficiency as a function of operating condition. Efficiency was quantified using the coefficient of power, defined as the ratio of mechanical power produced by the turbine to the available power in the incoming airflow. The design was considered successful, as the peak coefficient of power occurred near the target tip-speed ratio of five, consistent with the design assumptions and optimization objectives.
 
-![Graph of Coefficient of Power vs Tip Speed Ratio]({{ "/assets/images/TSR-vs-CP.jpg" | relative_url }}){: .inline-image-l}
+![Graph of Coefficient of Power vs Tip Speed Ratio]({{ site.baseurl }}/assets/images/TSR-vs-CP.jpg){: .inline-image-l}
 
-![Graph of Power Produced vs Turbine RPM]({{ "/assets/images/Power-vs-RPM.jpg" | relative_url }}){: .inline-image-l}
+![Graph of Power Produced vs Turbine RPM]({{ site.baseurl }}/assets/images/Power-vs-RPM.jpg){: .inline-image-l}
+
         </div>
       </figure>
     </div>
